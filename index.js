@@ -8,5 +8,5 @@ BoardMember.prototype.veto = function(){
 };
 
 BoardMember.prototype.approve= function(){
-  
+  return "You can do that!"
 }
